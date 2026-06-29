@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Vikram Singh Nayal 👋
 
-<!--
-**vikramNayal56/vikramNayal56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about Web Development and Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Python
+- JavaScript
+- c++
+- Ml
+- Git & GitHub
+
+🚀 Goals for 2026:
+- Master Frontend Development
+- Learn React and Node.js
+- Explore AI & Machine Learning
+- Build Real-World Projects
+
+🛠️ Technologies I Use:
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git
+- GitHub
+
+📂 Projects:
+- Personal Portfolio Website
+- Web Development Practice Projects
+- Future AI & ML Projects
+
+📈 Current Focus:
+Building projects, improving problem-solving skills, and learning modern development tools.
+
+⭐ Fun Fact:
+I believe consistent learning beats talent every time.
+
+Thanks for visiting my profile! 🚀
