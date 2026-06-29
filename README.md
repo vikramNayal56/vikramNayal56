@@ -1,6 +1,6 @@
 # Hi there, I'm Vikram Singh Nayal 👋
 
-🎓 BCA Computer Science Student
+🎓 BCA Computer application Student
 
 💻 Passionate about Web Development and Artificial Intelligence
 
